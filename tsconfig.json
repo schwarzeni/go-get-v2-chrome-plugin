@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es2015",
+    "outDir": "./extension/",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "jsx": "react"
+  },
+  "include": [
+    "./src/**/*"
+  ],
+  "types": [
+//(various types, e.g. jquery, core-js),
+  "chrome"],
+  "lib": ["es2016"] }
