@@ -6,7 +6,7 @@
 
 [go-get-v2](https://github.com/schwarzeni/go-get-v2)
 
-将extension加入到chrome插件中，[详见](https://jingyan.baidu.com/article/e5c39bf5cc39cc39d76033cd.html)，但添加但不是crx文件，而是extension文件夹
+将extension加入到chrome插件中，[详见](https://jingyan.baidu.com/article/e5c39bf5cc39cc39d76033cd.html)，但添加的不是crx文件，而是extension文件夹
 
 ## 使用方法
 
